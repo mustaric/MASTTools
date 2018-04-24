@@ -80,13 +80,18 @@ def getObsSheet(filename,sheetname):
           'filter','pupil','filter','pupil','filter','pupil','mask','totPhoton']
         useCol=None
     elif sheetname=="NIRSpec MOS":
-        useCol=np.arange(0,13,1)
+        useCol=np.arange(0,37,1)
         colNames=['pi','obsnum','obsid','instrument','mode','ra_hex','dec_hex',\
-          'timeCritical','t1','t2','phase','too','disToo']
+              'timeCritical','t1','t2','phase','too','disToo','yj','j','yj2','jj','par','pobs',\
+              'y1','tot1','y2','tot2','y3','tot3','y4','tot4','y5','tot5',\
+              'y6','tot6','y7','tot7','y8','tot8','y9','tot9'] 
     elif sheetname=="NIRSpec FSS & IFU":
-        useCol=np.arange(0,15,1)
+        useCol=np.arange(0,32,1)
         colNames=['pi','obsnum','obsid','instrument','mode','target','ra_hex','dec_hex',\
-                  'subarray','timeCritical','t1','t2','phase','too','disToo']        
+                  'subarray','timeCritical','t1','t2','phase','too','disToo'\
+                  'y1','tot1','y2','tot2','y3','tot3','y4','tot4','y5','tot5',\
+                  'y6','tot6','y7','tot7','y8','tot8','y9','tot9'] 
+        
         
     print(colNames)
     print(sheetname)
@@ -140,4 +145,4 @@ def main():
     
     allObs=p.concat(alldf,axis=0,join='inner')
     
-    return allObs
+    return allObs,alldf

@@ -67,7 +67,7 @@ def main():
             try:
                 value=hdu[ext].header[key]
                 comment=hdu[ext].header.comments[key]
-                print(" %9s = %15s   # %s" % (key,value,comment))
+                print(" %9s = %28s # %s" % (key,value,comment))
             except (KeyError,NameError):
                 sys.exit("\nERROR:  Cannot find Key %s in Extension %u" % (key,ext))
             

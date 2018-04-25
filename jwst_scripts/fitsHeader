@@ -39,6 +39,8 @@ def main():
     for opt, arg in options:
         if opt in ('-h','--help'):
             print("\nfitsHeader -f filename -e extension number (0=Primary) -k keyword,keyword")
+            print("If no keyword is specified the hdu summary of the file and full header are printed")
+            print("You might consider piping the results into less.")
             sys.exit("\n")
         if opt in ('-k','--key'):
             keyword=arg

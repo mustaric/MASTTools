@@ -159,9 +159,9 @@ def main():
     #starttime="2014-03-12 00:18:30"
     #This one is time intensive
     #epicids=getEpicListByStart(starttime,proj="K2")
-    epicids=getK2NamesList('/Users/smullally/K2/missioncount/k2names.csv')
+    #epicids=getK2NamesList('/Users/smullally/K2/missioncount/k2names.csv')
     #epicids=getKeplerPlanets('/Users/smullally/Kepler/missioncount/kepler_confirmed.csv')
-    #epicids=getHeartbeat('/Users/smullally/Kepler/missioncount/heartbeatstars.csv')
+    epicids=getHeartbeat('/Users/smullally/Kepler/missioncount/heartbeatstars.csv')
     #print(len(epicids))
     #print(epicids[0:5])
     #print(epicids[-4:])
@@ -172,8 +172,8 @@ def main():
     missing=[]
     for kid in tqdm(epicids):
         i=i+1
-        targetName="EPIC %u" % np.int(kid)
-        #targetName="KIC %u" % np.int(kid)
+        #targetName="EPIC %u" % np.int(kid)
+        targetName="KIC %u" % np.int(kid)
         uniqueObs=getUniqueObservations(targetName,radius_arcsec=coneradius_arcsec,columns=["obs_collection","project"])
         obspertarget.extend(uniqueObs)
         #print(k2id, uniqueObs)
@@ -186,7 +186,7 @@ def main():
     
     plt.figure(figsize=(14,7))
     plotUniqueCounts(names,counts)
-    plt.title('K2 Exoplanet stars with data from another mission, within 8 arcsec')
+    plt.title('Heartbeat stars with data from another mission, within 8 arcsec')
 
     return obspertarget,names,counts
     #datatypes=[]

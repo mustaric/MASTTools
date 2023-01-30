@@ -1,0 +1,104 @@
+country_name,total_volume_terabytes,request_count
+United States,53.47,1912947
+United Kingdom,7.19,227881
+Germany,4.70,170230
+Japan,4.40,212796
+Australia,3.06,142217
+China,2.65,91094
+France,2.15,96937
+Netherlands,2.13,100767
+Italy,2.12,108208
+Portugal,1.73,58171
+Switzerland,1.40,52604
+Vietnam,1.32,45911
+Spain,1.30,55857
+Canada,1.20,32552
+India,1.08,27560
+Taiwan,0.99,43733
+Poland,0.78,45937
+Chile,0.70,21308
+Ireland,0.64,14930
+Denmark,0.60,44353
+Sweden,0.53,31296
+Thailand,0.53,12436
+Argentina,0.52,11603
+New Zealand,0.47,15886
+Greece,0.43,11175
+Georgia,0.41,11120
+Hong Kong,0.40,25780
+South Korea,0.39,8976
+Slovenia,0.37,8161
+Mexico,0.29,6362
+Brazil,0.29,24551
+United Arab Emirates,0.28,6186
+Russia,0.26,11106
+Belgium,0.24,4837
+Lithuania,0.21,9793
+Israel,0.18,6155
+Hungary,0.17,101750
+Slovakia,0.17,5194
+Austria,0.17,7375
+Finland,0.10,4198
+Bulgaria,0.10,1955
+Singapore,0.08,2702
+Colombia,0.08,1926
+Philippines,0.08,1801
+Cyprus,0.07,6423
+Romania,0.06,1564
+Macao,0.06,1535
+Honduras,0.06,1535
+Dominican Republic,0.05,1260
+Norway,0.03,640
+Qatar,0.03,746
+Turkey,0.02,303
+Belarus,0.02,160
+Guatemala,0.01,291
+Jersey,0.01,946
+Czechia,0.01,663
+Paraguay,0.01,489
+Ukraine,0.01,2623
+Malaysia,0.0005,1453
+Iran,0.0005,371
+Peru,0.0005,46
+Uruguay,0.0005,6
+Seychelles,0.0005,2
+Venezuela,0.0005,1
+Saudi Arabia,0.0003,7
+Senegal,0.0003,1
+Uzbekistan,0.0003,1
+Serbia,0.0003,19
+South Africa,0.0003,23
+Puerto Rico,0.0002,5
+Vatican City,0.0002,1
+Sri Lanka,0.0002,2
+Trinidad and Tobago,0.0002,6
+Albania,0.0001,3
+Pakistan,0.0001,9
+Ghana,0.0001,2
+Armenia,0.0001,1
+Bangladesh,0.0001,8
+Barbados,0.0001,1
+Bolivia,0.0001,1
+Cambodia,0.0001,1
+Cayman Islands,0.0001,1
+Costa Rica,0.0001,83
+Croatia,0.0001,11
+Ecuador,0.0001,7
+Egypt,0.0001,1
+El Salvador,0.0001,1
+Estonia,0.0001,6
+Iceland,0.0001,2
+Oman,0.0001,1
+Indonesia,0.0001,10
+Iraq,0.0001,1
+Jordan,0.0001,2
+Kazakhstan,0.0001,1
+Kenya,0.0001,2
+Latvia,0.0001,4
+Luxembourg,0.0001,3
+Maldives,0.0001,2
+Mauritius,0.0001,2
+Morocco,0.0001,6
+Nepal,0.0001,2
+North Macedonia,0.0001,1
+Kuwait,0.0001,2

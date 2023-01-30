@@ -1,0 +1,16 @@
+location_stats_portal.csv  contains downloads from July 13-15.
+Removed the requests from the two biggest downloads, believed to be the dominant downloads from the partner archives, others may still remain.
+Total is 40tB
+
+ip_stats_summary_country_Jul152022 is the stats from July 13-15, 2022 of the AWS downloads by country.
+
+
+
+
+Those ending in 13-182022 are from ben Falk on the Jul 18, 2022.
+They are just AWS download stats of JWST data hosted on AWS.
+
+ip_stats_summary have the per country downloads and unique ip addresses.
+jwst_ero_PID and jwst_comm_PID give the downloads per PID from eRO and commissioning
+
+location_stats_portal_13-18 has the results from the mast portal, this includes the archive partners.

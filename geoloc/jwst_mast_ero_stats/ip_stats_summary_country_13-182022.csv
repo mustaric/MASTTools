@@ -1,0 +1,112 @@
+country_name,total_volume_terabytes,request_count,ips
+United States,74.353,2703009,2091
+United Kingdom,10.993,354765,336
+Germany,7.207,277220,359
+Japan,4.848,229735,118
+China,4.206,180030,189
+Australia,3.752,160436,142
+Netherlands,3.749,175712,92
+France,3.337,144555,158
+Switzerland,2.881,169340,60
+Italy,2.383,122973,144
+Canada,2.357,128149,192
+Portugal,2.299,91865,33
+India,2.052,67801,132
+Czechia,1.795,109750,30
+Spain,1.720,73714,97
+Vietnam,1.561,52661,7
+Greece,1.354,33758,33
+Sweden,1.351,45447,34
+Slovenia,1.137,26868,8
+Taiwan,1.005,43992,43
+Chile,0.996,27994,24
+Denmark,0.914,51316,19
+Thailand,0.904,20956,28
+Poland,0.809,48685,44
+Argentina,0.715,36166,35
+Ireland,0.691,16106,32
+Mexico,0.638,23392,31
+Lithuania,0.559,29983,8
+Brazil,0.522,45660,79
+Turkey,0.498,12398,78
+New Zealand,0.468,16289,19
+Belgium,0.467,10127,25
+Israel,0.464,12444,17
+Georgia,0.417,11256,6
+Hong Kong,0.413,26190,56
+South Korea,0.389,9209,33
+Cyprus,0.335,12283,1
+United Arab Emirates,0.302,6795,6
+Austria,0.302,15002,43
+Russia,0.261,11175,65
+Finland,0.241,7163,33
+Colombia,0.200,7750,10
+Hungary,0.182,102756,26
+Slovakia,0.171,5199,13
+Singapore,0.138,4159,30
+Bulgaria,0.138,2240,15
+Romania,0.124,3190,23
+Costa Rica,0.092,2184,5
+Philippines,0.078,1805,15
+Dominican Republic,0.078,1559,5
+Macao,0.059,1535,1
+Honduras,0.059,1536,2
+Saudi Arabia,0.049,1162,11
+Guatemala,0.031,731,2
+Peru,0.029,6057,6
+Norway,0.026,647,8
+Qatar,0.025,746,1
+Bangladesh,0.022,680,8
+Ukraine,0.018,2938,11
+Belarus,0.016,162,2
+Sudan,0.016,363,3
+Serbia,0.016,123,6
+Jersey,0.013,946,1
+South Africa,0.008,282,15
+Sri Lanka,0.008,6113,8
+Paraguay,0.007,489,2
+Malaysia,0.004,1456,9
+Iran,0.004,373,6
+Croatia,0.003,219,7
+Pakistan,0.002,40,6
+Kyrgyzstan,0.001,1,1
+Maldives,0.001,38,2
+Oman,0.000,5,2
+Cambodia,0.000,1,1
+Estonia,0.000,8,5
+El Salvador,0.000,1,1
+Egypt,0.000,15,3
+Ecuador,0.000,7,2
+Cayman Islands,0.000,1,1
+Trinidad and Tobago,0.000,6,1
+Tunisia,0.000,2,1
+Bosnia and Herzegovina,0.000,1,1
+Guadeloupe,0.000,1,1
+Bolivia,0.000,3,2
+Barbados,0.000,1,1
+Armenia,0.000,1,1
+Uruguay,0.000,6,5
+Uzbekistan,0.000,2,2
+Vatican City,0.000,1,1
+Venezuela,0.000,3,3
+Ghana,0.000,2,1
+Iceland,0.000,2,2
+North Macedonia,0.000,1,1
+Latvia,0.000,4,3
+Panama,0.000,3,2
+Nepal,0.000,4,4
+Morocco,0.000,8,5
+Mongolia,0.000,1,1
+Mauritius,0.000,3,2
+Puerto Rico,0.000,5,2
+Luxembourg,0.000,4,4
+Algeria,0.000,23,2
+Indonesia,0.000,40,12
+Kuwait,0.000,2,1
+Senegal,0.000,1,1
+Kenya,0.000,3,3
+Seychelles,0.000,2,2
+Kazakhstan,0.000,3,3
+Jordan,0.000,2,1
+Iraq,0.000,2,2
+Albania,0.000,6,2
